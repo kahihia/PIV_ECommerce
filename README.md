@@ -9,7 +9,7 @@
 ## Flow & UML
 
 
-![](./images/socorroMocks/Flow_UML.png)
+![](https://github.com/sserrato/PIV_ECommerce/blob/master/images/SocorroMocks/Flow_UML.png)
 
 
 ## Technology 
@@ -31,13 +31,13 @@ P1: Absolutely must have
 P2: Must have
 P3: Nice to have
 
-![](./images/socorroMocks/MVP.png)
+![](https://github.com/sserrato/PIV_ECommerce/blob/master/images/SocorroMocks/MVP.png)
 
 ## Mocks
-![](./images/socorroMocks/Main.png)
-![](./images/socorroMocks/Meal.png)
-![](./images/socorroMocks/Order.png)
-![](./images/socorroMocks/Checkout.png)
+![](https://github.com/sserrato/PIV_ECommerce/blob/master/images/SocorroMocks/Main.png)
+![](https://github.com/sserrato/PIV_ECommerce/blob/master/images/SocorroMocks/Meal.png)
+![](https://github.com/sserrato/PIV_ECommerce/blob/master/images/SocorroMocks/Order.png)
+![](https://github.com/sserrato/PIV_ECommerce/blob/master/images/SocorroMocks/Checkout.png)
 
 
 ## Sources 
