@@ -1,7 +1,7 @@
 # WDI: Project IV: An e-commerce app for home-cooked meals
 
 
-![](./images/socorroLo.png)
+![](https://github.com/sserrato/PIV_ECommerce/blob/master/images/SocorroMocks/socorroLo.png)
 ## Background: 
 
 - The US food industry generates eight billion dollars per year. However, at present the US is facing an epidemic of lifestyle diseases. An estimated 160 million Americans are either obese or overweight. 
