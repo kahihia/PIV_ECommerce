@@ -1,3 +1,4 @@
 class Order < ActiveRecord::Base
-  has_and_belongs_to_many :meals
+  has_many :meals, through :meals_users
+  has_many :users, through :meals_users 
 end
